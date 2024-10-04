@@ -1,0 +1,44 @@
+[18/09/2024 - 10:02:37] Server started on localhost:8080
+[18/09/2024 - 10:02:51] Server stopped
+[18/09/2024 - 10:03:42] Server started on localhost:2525
+[18/09/2024 - 10:05:03] New user connected : 127.0.0.1:2525. Username : daro
+[18/09/2024 - 10:05:03] daro joined the chat
+[18/09/2024 - 10:06:04] New user connected : 127.0.0.1:2525. Username : dylane
+[18/09/2024 - 10:06:04] dylane joined the chat
+[18/09/2024 - 10:06:32] daro: hello
+[18/09/2024 - 10:06:55] New user connected : 127.0.0.1:2525. Username : same
+[18/09/2024 - 10:06:55] same joined the chat
+[18/09/2024 - 10:09:35] same has been disconnected
+[18/09/2024 - 10:09:35] same left the chat
+[18/09/2024 - 10:09:36] dylane has been disconnected
+[18/09/2024 - 10:09:36] dylane left the chat
+[18/09/2024 - 10:09:37] daro has been disconnected
+[18/09/2024 - 10:09:37] daro left the chat
+[18/09/2024 - 10:09:39] Server stopped
+[18/09/2024 - 10:09:52] Server started on 192.168.245.74:2525
+[18/09/2024 - 10:10:02] New user connected : 192.168.245.74:2525. Username : Dylan
+[18/09/2024 - 10:10:02] Dylan joined the chat
+[18/09/2024 - 10:10:09] New user connected : 192.168.245.74:2525. Username : daro
+[18/09/2024 - 10:10:09] daro joined the chat
+[18/09/2024 - 10:10:12] Dylan: yo
+[18/09/2024 - 10:10:43] New user connected : 192.168.245.74:2525. Username : oui
+[18/09/2024 - 10:10:43] oui joined the chat
+[18/09/2024 - 10:10:52] New user connected : 192.168.245.74:2525. Username : oui1
+[18/09/2024 - 10:10:52] oui1 joined the chat
+[18/09/2024 - 10:11:04] New user connected : 192.168.245.74:2525. Username : OUié
+[18/09/2024 - 10:11:04] OUié joined the chat
+[18/09/2024 - 10:11:11] OUié left the chat
+[18/09/2024 - 10:11:18] oui1: oui
+[18/09/2024 - 10:13:10] oui1 changed his name to non
+[18/09/2024 - 10:13:13] non: opui
+[18/09/2024 - 10:16:39] Dylan: mlkk
+[18/09/2024 - 10:16:42] Dylan: l
+[18/09/2024 - 10:16:42] Dylan: l
+[18/09/2024 - 10:16:46] Dylan: l
+[18/09/2024 - 10:16:51] Dylan: p
+[18/09/2024 - 10:16:51] non: salutntbrebvrbbr
+[18/09/2024 - 10:16:52] Dylan: htdugj
+[18/09/2024 - 10:26:35] oui left the chat
+[18/09/2024 - 10:26:35] daro left the chat
+[18/09/2024 - 10:26:35] Dylan left the chat
+[18/09/2024 - 10:26:35] non left the chat

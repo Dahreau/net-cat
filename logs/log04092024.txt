@@ -1,0 +1,32 @@
+[04/09/2024 - 11:26:22] New user connected : 127.0.0.1:8080. Username : fhql
+[04/09/2024 - 11:26:22] fhql joined the chat
+[04/09/2024 - 11:26:23] fhql has been disconnected
+[04/09/2024 - 11:32:26] New user connected : 127.0.0.1:8080. Username : Yuu
+[04/09/2024 - 11:32:26] Yuu joined the chat
+[04/09/2024 - 11:32:28] Yuu: juju
+[04/09/2024 - 11:32:30] Yuu: Hello, how can I help you?
+[04/09/2024 - 11:32:32] fhql: I have a question about the project.
+[04/09/2024 - 11:32:35] Yuu: Sure, what's your question?
+[04/09/2024 - 11:32:37] fhql: I'm getting an error when I try to compile the code.
+[04/09/2024 - 11:32:40] Yuu: What's the error message?
+[04/09/2024 - 11:32:42] fhql: It says "undefined reference to function foo".
+[04/09/2024 - 11:32:45] Yuu: That means the linker can't find the definition of the function. Make sure you have included the correct header file and that the function is implemented.
+[04/09/2024 - 11:32:48] fhql: Ah, I see. Thanks for the help!
+[04/09/2024 - 11:32:50] Yuu: You're welcome! Let me know if you have any other questions.
+[04/09/2024 - 11:35:12] New user connected : 127.0.0.1:8080. Username : JohnDoe
+[04/09/2024 - 11:35:12] JohnDoe joined the chat
+[04/09/2024 - 11:35:15] JohnDoe: Hey everyone!
+[04/09/2024 - 11:35:18] Yuu: Hi JohnDoe, welcome to the chat!
+[04/09/2024 - 11:35:20] fhql: Hello JohnDoe!
+[04/09/2024 - 11:35:22] JohnDoe: Thanks, glad to be here!
+[04/09/2024 - 11:35:25] JohnDoe has been disconnected
+[04/09/2024 - 11:38:40] New user connected : 127.0.0.1:8080. Username : JaneSmith
+[04/09/2024 - 11:38:40] JaneSmith joined the chat
+[04/09/2024 - 11:38:42] JaneSmith: Hi everyone, how's it going?
+[04/09/2024 - 11:38:45] Yuu: Hi JaneSmith, we're doing great! How about you?
+[04/09/2024 - 11:38:47] fhql: Hello JaneSmith, everything's good here!
+[04/09/2024 - 11:38:50] JaneSmith: I'm doing well, thanks for asking!
+[04/09/2024 - 11:38:52] JaneSmith has been disconnected[04/09/2024 - 11:48:58][04/09/2024 - 14:39:01] Server started on localhost:8080
+[04/09/2024 - 14:39:13] New user connected : 127.0.0.1:8080. Username : yo
+[04/09/2024 - 14:39:13] yo joined the chat
+[04/09/2024 - 14:39:15] yo: Daro
